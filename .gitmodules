@@ -1,0 +1,6 @@
+[submodule "esp32_can"]
+	path = esp32_can
+	url = https://github.com/maxpfeif/esp32_can.git
+[submodule "lib/esp32_can"]
+	path = lib/esp32_can
+	url = https://github.com/maxpfeif/esp32_can.git
